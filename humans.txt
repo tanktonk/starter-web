@@ -4,6 +4,7 @@ Change
 
 # TEAM
 
+Tk Lee
     <name> -- <role> -- <twitter>
 
 # THANKS
