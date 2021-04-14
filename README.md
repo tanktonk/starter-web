@@ -10,3 +10,4 @@ Change from GitHub
 Test git fetch
 Change in master
 Test git fetch rebase
+Test git pull rebase
