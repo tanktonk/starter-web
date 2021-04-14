@@ -9,3 +9,4 @@ Change made from rebase branch
 Change from GitHub
 Test git fetch
 Test git fetch rebase
+Test git pull rebase
