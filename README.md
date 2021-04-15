@@ -6,8 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 Change made from rebase branch
-Change from GitHub
-Test git fetch
-Change in master
-Test git fetch rebase
-Test git pull rebase
+Change from GitHub to test fetch
